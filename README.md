@@ -1,2 +1,2 @@
-# Solidarity-exampe
+# Solidarity-example
 blockchain
